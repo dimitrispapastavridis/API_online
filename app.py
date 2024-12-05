@@ -22,7 +22,7 @@ import requests
 
 def load_data_from_api(user_id):
     """Load data from the API"""
-    base_url = 'https://daac-84-254-53-241.ngrok-free.app/api/get_routes_data'
+    base_url = 'https://9ea9-84-254-53-241.ngrok-free.app/api/get_routes_data'
     
     # Prepare query parameters
     params = {'user_id': user_id}
