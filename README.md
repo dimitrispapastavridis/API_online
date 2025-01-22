@@ -46,3 +46,4 @@ i)That if you want to use Windows PowerShell to connect your PC Folder with the 
 
 ii)Make sure that your GitHub version of your app contains a line :  server = app.server
 
+For resusing it , you just have to change the base_url when you create the ngrok link for your api.
